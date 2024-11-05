@@ -1,8 +1,7 @@
 """
-FIT3155 Assignment 1 Question 1 
+Z algorithm 
 
-Author: Huiying Lin 
-Student ID: 30119413
+Author: Harrison Lin 
 Version: 02/04/2023
 
 """
